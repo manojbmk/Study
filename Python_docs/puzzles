@@ -1,2 +1,0 @@
-1. How to handle nested try-except loops.
-2. Difference between fp = open("file") as with open("file") as fp ( As fp.read() is not working similar in both cases)
