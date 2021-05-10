@@ -1,0 +1,4 @@
+-v flag means verbose which gives info about background work.
+-p ( mkdir/rmdir ) is used for creating/removing a directory along with parental directories.
+group name format in /etc/group.
+watch - execute a command periodically
